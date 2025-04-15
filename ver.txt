@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "Beta",
-    "SoftwareUrl": "https://github.com/devultra10/KolyaBeta/releases/download/Beta/GP_CookyGen_Vip.pyw",
+    "SoftwareUrl": "https://github.com/devultra10/KolyaBeta/releases/download/Beta/KolyaBeta.py",
     "Status":"True",
     "Changelog":"[+] Beta!"
 }
