@@ -1,0 +1,6 @@
+{
+    "SoftwareVersion": "Beta",
+    "SoftwareUrl": "",
+    "Status":"True",
+  "Changelog":"[+] Beta!"
+}
